@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="insert_image">Please insert image before</string>
+    <string name="somwthing_wrong">Something went wrong</string>
+    <string name="init_failed">Image classifier failed to initialize</string>
+    <string name="ucrop_null">UCrop result URI is null</string>
+    <string name="intent_data_null">Intent data is null</string>
+    <string name="error_cropping_image">Error cropping image</string>
+    <string name="cancer_image">Cancer Image</string>
+    <string name="show_history">Show History</string>
+    <string name="delete_all">Delete All</string>
+    <string name="success_delete">Successfully delete all history</string>
+    <string name="delete_desc">Are you sure want to delete all history ?</string>
+    <string name="no_history_data">No History Data</string>
+    <string name="more_article">See more about cancer</string>
+    <string name="article_image">Article image</string>
+</resources>
